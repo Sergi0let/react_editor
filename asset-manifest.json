@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_editor/static/css/main.f61dcc16.css",
+    "main.js": "/react_editor/static/js/main.b8ad1e85.js",
+    "static/media/1bg.jpg": "/react_editor/static/media/1bg.2666709eb3e28727e7b5.jpg",
+    "static/media/delete.svg": "/react_editor/static/media/delete.5d0f43bfe16b51444895b76f566c2b50.svg",
+    "static/media/image.svg": "/react_editor/static/media/image.c7d3a54b4b7b3622ae42fa57fa921acc.svg",
+    "static/media/headline.svg": "/react_editor/static/media/headline.7f1e74f0b4d7534b392dc7fc35aa3187.svg",
+    "index.html": "/react_editor/index.html",
+    "static/media/copy.svg": "/react_editor/static/media/copy.28827fdd832820492100153ea133b37b.svg",
+    "static/media/text-align-left.svg": "/react_editor/static/media/text-align-left.e292197146b0589cb788917e76a55b0c.svg",
+    "static/media/arrow.svg": "/react_editor/static/media/arrow.e0317183d4f741adc59a022a9cc5d3ec.svg",
+    "main.f61dcc16.css.map": "/react_editor/static/css/main.f61dcc16.css.map",
+    "main.b8ad1e85.js.map": "/react_editor/static/js/main.b8ad1e85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61dcc16.css",
+    "static/js/main.b8ad1e85.js"
+  ]
+}
