@@ -2,7 +2,6 @@ import ContentBlock from './components/ContentBlock';
 import Header from './components/Header';
 import WidgetsArea from './components/WidgetsArea';
 import WorkingArea from './components/WorkingArea';
-
 import { DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
 
